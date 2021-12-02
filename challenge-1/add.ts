@@ -1,8 +1,8 @@
-function addition(a: number, b: number) {
+function add(a: number, b: number) {
 	return a + b;
 }
 
-console.log(addition(4, 2));
+console.log(add(4, 2));
 
 function hello(name: string) {
 	console.log("Hello " + name);
