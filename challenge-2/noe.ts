@@ -87,7 +87,7 @@ const chartreux = new Chartreux("Chartreux");
 //chien
 const terreNeuve = new TerreNeuve("Terre Neuve");
 const moonMoon = new MoonMoon("Moon Moon");
-//oisseaux
+//oiseaux
 const mesange = new Mesange("Mésange");
 const merle = new Merle("Merle");
 //poisson
