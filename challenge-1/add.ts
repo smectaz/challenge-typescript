@@ -1,3 +1,5 @@
+//partie 1
+
 function add(a: number, b: number) {
 	return a + b;
 }
@@ -8,7 +10,7 @@ function hello(name: string) {
 	console.log("Hello " + name);
 }
 
-var firstName = "bob";
+var firstName = "paul";
 
 hello(firstName);
 hello(firstName + " marley");
